@@ -1,0 +1,9 @@
+building,PristineProlife,450
+building,KunalBelleza,4507
+building,GalorePark,1835
+auto,2001 Camery Toyota,100,24
+auto,2001 Waganor Maruti,300,24
+auto,Q7 BMW 2011,700,30
+food,Apple,22,Fruit
+food,Burgur,44,Out
+food,Milk,33,Dairy

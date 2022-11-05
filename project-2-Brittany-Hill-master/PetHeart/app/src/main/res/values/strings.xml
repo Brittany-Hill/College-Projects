@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetHeart</string>
+    <string name="favorite_switch">Favorite</string>
+    <string name="Description_label">Description</string>
+    <string name="Description_hint">Please enter a description</string>
+    <string name="title_label">Title</string>
+    <string name="photo_name_hint">Name</string>
+    <string name="memory_name">Memory name</string>
+    <string name="memory_date">Memory date</string>
+    <string name="new_memory">Add new memory</string>
+    <string name="delete_memory">Delete</string>
+    <string name="share_memory">Share</string>
+    <string name="memory_summary_descript">Remember %1s! It happened on %2s. Remember %3s!</string>
+    <string name="memory_summary_no_descript">Remember %1s! It happened on %2s.</string>
+
+</resources>

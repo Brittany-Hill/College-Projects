@@ -1,0 +1,25 @@
+{
+  "name": "activity-2-brittany-hill",
+  "version": "1.0.0",
+  "description": "The purpose of this lab is to get hands-on experience with communicating between different NodeJS services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start server1": "node home.js",
+    "start server2": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cen4053-fall2021/activity-2-Brittany-Hill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cen4053-fall2021/activity-2-Brittany-Hill/issues"
+  },
+  "homepage": "https://github.com/cen4053-fall2021/activity-2-Brittany-Hill#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "express": "^4.17.1"
+  }
+}

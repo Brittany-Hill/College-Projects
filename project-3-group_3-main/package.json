@@ -1,0 +1,22 @@
+{
+  "name": "project-3-group_3",
+  "version": "1.0.0",
+  "description": "Project 3 for Software Engineering Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cen4053-fall2021/project-3-group_3.git"
+  },
+  "author": "Tyler Blackmon and Brittany Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cen4053-fall2021/project-3-group_3/issues"
+  },
+  "homepage": "https://github.com/cen4053-fall2021/project-3-group_3#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}

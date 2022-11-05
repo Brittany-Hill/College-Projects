@@ -1,0 +1,26 @@
+{
+  "name": "activity-1-brittany-hill",
+  "version": "1.0.0",
+  "description": "First Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cen4053-fall2021/activity-1-Brittany-Hill.git"
+  },
+  "keywords": [
+    "cen4053"
+  ],
+  "author": "Brittany Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cen4053-fall2021/activity-1-Brittany-Hill/issues"
+  },
+  "homepage": "https://github.com/cen4053-fall2021/activity-1-Brittany-Hill#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
